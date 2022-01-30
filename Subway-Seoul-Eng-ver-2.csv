@@ -1,0 +1,296 @@
+The,Dongducheon,4
+Dongducheon,The,4
+Dongducheon,Boshan,2
+Boshan,Dongducheon,2
+Boshan,Dongducheon center,2
+Dongducheon center,Boshan,2
+Dongducheon center,Traveling,2
+Traveling,Dongducheon center,2
+Traveling,Thanksgiving,5
+Thanksgiving,Traveling,5
+Thanksgiving,Virtue,5
+Virtue,Thanksgiving,5
+Virtue,liquor,4
+liquor,Virtue,4
+liquor,Green,3
+Green,liquor,3
+Green,possible,2
+possible,Green,2
+possible,Uijeongbu,3
+Uijeongbu,possible,3
+Uijeongbu,Sukyong,3
+Sukyong,Uijeongbu,3
+Sukyong,Mangwolsa,2
+Mangwolsa,Sukyong,2
+Mangwolsa,Dobongsan,3
+Dobongsan,Mangwolsa,3
+Dobongsan,Dodging,2
+Dodging,Dobongsan,2
+Dodging,Vacation,2
+Vacation,Dodging,2
+Vacation,Changdong,2
+Changdong,Vacation,2
+Changdong,Petrol,2
+Petrol,Changdong,2
+Petrol,Month,3
+Month,Petrol,3
+Month,Kwangwoon University,2
+Kwangwoon University,Month,2
+Kwangwoon University,Stoning,3
+Stoning,Kwangwoon University,3
+Stoning,New,2
+New,Stoning,2
+New,Outside of the outer court,1
+Outside of the outer court,New,1
+Outside of the outer court,session,2
+session,Outside of the outer court,2
+session,Cheongnyangni,3
+Cheongnyangni,session,3
+Cheongnyangni,Jejudo,2
+Jejudo,Cheongnyangni,2
+Jejudo,New building,2
+New building,Jejudo,2
+New building,Myo,2
+Myo,New building,2
+Myo,Dong Dae Moon,2
+Dong Dae Moon,Myo,2
+Dong Dae Moon,Jongno 5,2
+Jongno 5,Dong Dae Moon,2
+Jongno 5,Jongno 3,2
+Jongno 3,Jongno 5,2
+Jongno 3,Minification,1
+Minification,Jongno 3,1
+Minification,City Hall,3
+City Hall,Minification,3
+City Hall,Seoul Station,2
+Seoul Station,City Hall,2
+Seoul Station,Namyoung,3
+Namyoung,Seoul Station,3
+Namyoung,Yong-San,2
+Yong-San,Namyoung,2
+Yong-San,Noryangjin,3
+Noryangjin,Yong-San,3
+Noryangjin,The other side,2
+The other side,Noryangjin,2
+The other side,Shin,2
+Shin,The other side,2
+Shin,Yeongdeungpo,2
+Yeongdeungpo,Shin,2
+Yeongdeungpo,Shindorim,3
+Shindorim,Yeongdeungpo,3
+Shindorim,Guro,1
+Guro,Shindorim,1
+Guro,Old,2
+Old,Guro,2
+Old,release,3
+release,Old,3
+release,Fault,2
+Fault,release,2
+Fault,hot water,3
+hot water,Fault,3
+hot water,Yeonggok,2
+Yeonggok,hot water,2
+Yeonggok,Sosa,3
+Sosa,Yeonggok,3
+Sosa,Bucheon,2
+Bucheon,Sosa,2
+Bucheon,Middle East,2
+Middle East,Bucheon,2
+Middle East,Song,2
+Song,Middle East,2
+Song,Puncture,3
+Puncture,Song,3
+Puncture,Bupyeong,2
+Bupyeong,Puncture,2
+Bupyeong,Baekun,3
+Baekun,Bupyeong,3
+Baekun,Dongam,2
+Dongam,Baekun,2
+Dongam,Tideland,3
+Tideland,Dongam,3
+Tideland,Juan,2
+Juan,Tideland,2
+Juan,Drawing,1
+Drawing,Juan,1
+Drawing,Chemulpo,1
+Chemulpo,Drawing,1
+Chemulpo,Taoyuan,2
+Taoyuan,Chemulpo,2
+Taoyuan,Dongin Stream,4
+Dongin Stream,Taoyuan,4
+Dongin Stream,Incheon,4
+Incheon,Dongin Stream,4
+Guro,Gassan Digital Complex,5
+Gassan Digital Complex,Guro,5
+Gassan Digital Complex,Toxic acid,4
+Toxic acid,Gassan Digital Complex,4
+Toxic acid,Geumcheon-gu Office,3
+Geumcheon-gu Office,Toxic acid,3
+Geumcheon-gu Office,light,5
+light,Geumcheon-gu Office,5
+Geumcheon-gu Office,stonemason,3
+stonemason,Geumcheon-gu Office,3
+stonemason,Wind,2
+Wind,stonemason,2
+Wind,Anyang,3
+Anyang,Wind,3
+Anyang,Honorific,3
+Honorific,Anyang,3
+Honorific,Gold mine,3
+Gold mine,Honorific,3
+Gold mine,Gunpo,3
+Gunpo,Gold mine,3
+Gunpo,Dangjeong,1
+Dangjeong,Gunpo,1
+Dangjeong,Uiwang,2
+Uiwang,Dangjeong,2
+Uiwang,Sungkyunkwan University,4
+Sungkyunkwan University,Uiwang,4
+Sungkyunkwan University,Inflorescences,3
+Inflorescences,Sungkyunkwan University,3
+Inflorescences,Suwon,4
+Suwon,Inflorescences,4
+Suwon,Trickle,4
+Trickle,Suwon,4
+Trickle,Bottleneck,4
+Bottleneck,Trickle,4
+Bottleneck,Saotongtan,3
+Saotongtan,Bottleneck,3
+Bottleneck,Sema,4
+Sema,Bottleneck,4
+Sema,Ohsan University,4
+Ohsan University,Sema,4
+Ohsan University,Osan,4
+Osan,Ohsan University,4
+Osan,Authenticity,3
+Authenticity,Osan,3
+Authenticity,Songtan,4
+Songtan,Authenticity,4
+Songtan,Seo Jung-ri,3
+Seo Jung-ri,Songtan,3
+Seo Jung-ri,Ji,4
+Ji,Seo Jung-ri,4
+Ji,Pyeongtaek,3
+Pyeongtaek,Ji,3
+Pyeongtaek,Recurrence,7
+Recurrence,Pyeongtaek,7
+Recurrence,Jisan,5
+Jisan,Recurrence,5
+Jisan,vertex,4
+vertex,Jisan,4
+vertex,Cheonan,3
+Cheonan,vertex,3
+Cheonan,The,2
+The,Cheonan,2
+The,The,2
+The,The,2
+The,Asan,2
+Asan,The,2
+Asan,Wasting,4
+Wasting,Asan,4
+Wasting,Onyang Hot Spring,4
+Onyang Hot Spring,Wasting,4
+Onyang Hot Spring,Shinchang,4
+Shinchang,Onyang Hot Spring,4
+City Hall,Euljiro entrance,2
+Euljiro entrance,City Hall,2
+Euljiro entrance,Euljiro 3,2
+Euljiro 3,Euljiro entrance,2
+Euljiro 3,Euljiro 4,1
+Euljiro 4,Euljiro 3,1
+Euljiro 4,Dongdaemun History and Culture Park,2
+Dongdaemun History and Culture Park,Euljiro 4,2
+Dongdaemun History and Culture Park,New party,2
+New party,Dongdaemun History and Culture Park,2
+New party,Sangwon-ri,2
+Sangwon-ri,New party,2
+Sangwon-ri,Wangsim,1
+Wangsim,Sangwon-ri,1
+Wangsim,Hanyang University,2
+Hanyang University,Wangsim,2
+Hanyang University,Ttukseom,2
+Ttukseom,Hanyang University,2
+Ttukseom,Holy water,1
+Holy water,Ttukseom,1
+Holy water,Entrance,2
+Entrance,Holy water,2
+Entrance,spherical,3
+spherical,Entrance,3
+spherical,riverside,1
+riverside,spherical,1
+riverside,Jamsil Narr,2
+Jamsil Narr,riverside,2
+Jamsil Narr,Jam-sil,3
+Jam-sil,Jamsil Narr,3
+Jam-sil,Sincheon,2
+Sincheon,Jam-sil,2
+Sincheon,A sports complex,2
+A sports complex,Sincheon,2
+A sports complex,Samsung,2
+Samsung,A sports complex,2
+Samsung,Seolleung,2
+Seolleung,Samsung,2
+Seolleung,Reverse osmosis,1
+Reverse osmosis,Seolleung,1
+Reverse osmosis,Gangnam,2
+Gangnam,Reverse osmosis,2
+Gangnam,rotation,2
+rotation,Gangnam,2
+rotation,Seocho,2
+Seocho,rotation,2
+Seocho,Dance,2
+Dance,Seocho,2
+Dance,Shrine,3
+Shrine,Dance,3
+Shrine,Nukseongdae,2
+Nukseongdae,Shrine,2
+Nukseongdae,Seoul National University entrance,2
+Seoul National University entrance,Nukseongdae,2
+Seoul National University entrance,Bongcheon,2
+Bongcheon,Seoul National University entrance,2
+Bongcheon,Shilling,2
+Shilling,Bongcheon,2
+Shilling,Shinbangbang,2
+Shinbangbang,Shilling,2
+Shinbangbang,Guro Digital Complex,2
+Guro Digital Complex,Shinbangbang,2
+Guro Digital Complex,Daelim,2
+Daelim,Guro Digital Complex,2
+Daelim,Shindorim,3
+Shindorim,Daelim,3
+Shindorim,Moon,2
+Moon,Shindorim,2
+Moon,Yeongdeungpo-gu Office,2
+Yeongdeungpo-gu Office,Moon,2
+Yeongdeungpo-gu Office,saccharic acid,2
+saccharic acid,Yeongdeungpo-gu Office,2
+saccharic acid,Hwa,4
+Hwa,saccharic acid,4
+Hwa,Hongik University entrance,2
+Hongik University entrance,Hwa,2
+Hongik University entrance,Sin Chon,2
+Sin Chon,Hongik University entrance,2
+Sin Chon,Ida,2
+Ida,Sin Chon,2
+Ida,Ahyeon,2
+Ahyeon,Ida,2
+Ahyeon,Chungjeongje,2
+Chungjeongje,Ahyeon,2
+Chungjeongje,City Hall,3
+City Hall,Chungjeongje,3
+Holy water,Ttukseom,3
+Ttukseom,Holy water,3
+Ttukseom,Hanyang University,2
+Hanyang University,Ttukseom,2
+Hanyang University,Wangsim,2
+Wangsim,Hanyang University,2
+Wangsim,Sangwon-ri,2
+Sangwon-ri,Wangsim,2
+Shindorim,Daelim,2
+Daelim,Shindorim,2
+Daelim,Guro Digital Complex,3
+Guro Digital Complex,Daelim,3
+Guro Digital Complex,Shinbangbang,4
+Shinbangbang,Guro Digital Complex,4
+Shinbangbang,Shilling,3
+Shilling,Shinbangbang,3
